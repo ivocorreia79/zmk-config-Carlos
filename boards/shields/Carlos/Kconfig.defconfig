@@ -1,0 +1,6 @@
+if SHIELD_CARLOS
+
+config ZMK_KEYBOARD_NAME
+    default "Carlos"
+	
+endif
